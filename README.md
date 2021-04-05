@@ -1,1 +1,1 @@
-<img src="z.jpg" href="#">
+<img src="z.jpg" alt="" href="#">

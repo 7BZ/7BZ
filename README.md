@@ -5,4 +5,5 @@ I'm depressed
 I have a rough life
 <p align="center">
 I don't speak often
+------------
 <img src="z.jpg" alt="" href="#">

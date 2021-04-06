@@ -8,5 +8,8 @@ I have a rough life
 <p align="center">
 I don't speak often
 </p>
+<p align="center">
+I need friends
+</p>
  
 <img src="z.jpg" alt="" href="#">
